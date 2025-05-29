@@ -1,0 +1,16 @@
+langchain
+langchain-google-genai
+google-generativeai
+tavily-python
+alpha_vantage
+streamlit
+SpeechRecognition
+openai-whisper
+edge-tts
+pydub
+langchain-community
+qdrant-client
+fastapi
+uvicorn
+tiktoken
+langchainhub 
